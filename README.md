@@ -8,7 +8,7 @@ I have been learning code for one year now. I dived into HTML/CSS, initially. La
 
 * 🌍  I'm based in Kashmir-India
 * ✉️  You can contact me at [mail.qashifpeer@gmail.com](mailto:mail.qashifpeer@gmail.com)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning Laravel VueJs
 * 🤝  I'm open to collaborating on Laravel,HTML/CSS
 * ⚡  ABove all I do some photography stuff.
 
